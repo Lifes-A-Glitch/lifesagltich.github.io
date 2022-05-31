@@ -1,7 +1,7 @@
 ---
 title: Homelab
-icon: fas fa-computer
+icon: fas fa-laptop-code
 order: 4
 ---
 
-## Hello world
+# Work In Progress!
