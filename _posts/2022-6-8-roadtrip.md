@@ -1,0 +1,26 @@
+---
+# can edit: title, date, categories, and tags
+layout: post
+title: "ROAD TRIP!"
+date: 2022-06-08 18:00:00 -0500
+categories: [travel]
+tags: [travel, new places]
+---
+# This is going to be the most painstaking part... the drive...
+
+So... Most of you that will see this already know I drive an expensive car. Most of you know that I cry when there is high miliage on said car 😂. I am looking forward to the trip, but also not looking forward to the amount of $ I will be dropping. The good thing is though is that I am actually going to be paid pretty well when moving to the new location, so I am not worried right now at all about expenses or anything really.
+
+## Pictures
+When I am there, I plan on taking as many pictures as I can to at least show what is going on. I am also thinking of showing off the apartments that I am looking at and the spreadsheet for them. Wouldn't be a bad idea right? At least it would show you guys that it is somewhat decent where I am going to be at.
+
+## Moving time..?
+I haven't let many people know when I am moving (or even where I am moving to for multiple reasons). This is going to stay that way for the time being at least until I feel comfortable that I have made a good, solid group of friends. I still plan on keeping in contact with my friends where I am currently living, but would at least like to get my life in order.
+
+### _Side Notes_
+I have been thinking of actually posting some music on every post, just to kind've give you (the poor readers of my bullsh*t) a taste of my music.
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3Zm5SMUA3JH98Aty7Zc0xr?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+
+You will need a spotify account to listen directly on here, if you are interested in listening still, I recommend YouTube (click the picture below 👇)
+<br><br>[![Kiss This - The Struts](https://img.youtube.com/vi/abOhx2YtPyM/0.jpg)](https://www.youtube.com/watch?v=abOhx2YtPyM)
