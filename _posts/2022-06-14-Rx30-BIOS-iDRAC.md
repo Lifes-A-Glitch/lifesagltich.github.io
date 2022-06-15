@@ -17,7 +17,7 @@ _Note: I cried during this whole process, this documentation is to help you cry 
   * Must have PC to download firmware (Doesn't matter what Operating System, recommended is Windows)
   * Banana for potassium 🍌
 
-First, you will want to pull the drivers off of <u>[Dell's Website](https://www.dell.com/support/home/en-us/product-support/product/poweredge-r630/drivers)</u>. You will specifically be looking for BIOS 2.13.0 and iDRAC version 2.83.83.83.
+First, you will want to pull the drivers off of [Dell's Website](https://www.dell.com/support/home/en-us/product-support/product/poweredge-r630/drivers). You will specifically be looking for BIOS 2.13.0 and iDRAC version 2.83.83.83.
 
 ## BIOS
 
