@@ -3,7 +3,7 @@
 layout: post
 title: "Moving to a new place"
 date: 2022-06-06 08:00:00 -0500
-categories: [travel]
+categories: [Travel]
 tags: [travel, move, new places]
 ---
 
