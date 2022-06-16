@@ -30,16 +30,16 @@ First, you will want to pull the drivers off of [Dell's Website](https://www.del
 
 ### After Downloading
 
-You will want to create a "dump" file for the iDRAC executable. Most likely, you are in your downloads folder. If you would like to stay in there, that is fine. I do recommend though of moving both `.exe` files to a separate folder (I called mine 'Dell' originally).
+You will want to create a "dump" folder for the iDRAC executable. Most likely, you are in your downloads folder. If you would like to stay in there, that is fine. I do recommend though of moving both `.exe` files to a separate folder (I called mine 'Dell' originally).
 
-Make another new folder called 'iDRAC_dump'. Click on the `iDRAC-with-Lifecycle-Controller_Firmware_DDK5R_WN64_2.83.83.83_A00.EXE` executable. You should see something similar to this...
+Make another new folder called 'iDRAC_dump'. Click on the `iDRAC-with-Lifecycle-Controller_Firmware---.exe` executable. You should see something similar to this...
 
 <br>
 
 ![iDRAC_Firmware](/assets/img/iDRAC_firmware_software.png)
 <br>
 
-You will want to click on 'extract' and extract the files to the 'iDRAC_dump' folder. Once in there you will see a folder called 'payload', within that folder you will see a file called `firmimg.d7`. __That__ file is the firmware file you will need for the next step.
+You will want to click on 'extract' and extract the files to the 'iDRAC_dump' folder (you will want to create one). Once in there you will see a folder called 'payload', within that folder you will see a file called `firmimg.d7`. __That__ file is the firmware file you will need for the next step.
 
 ### iDRAC
 
@@ -68,4 +68,5 @@ You can now thank yourself that you were able to get this done with minimal tear
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/51rv0PwUdnFJNdf04pPLB2?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 
-_Revision 0.1 - 6/15/2022: initial upload_
+_Revision 0.1 - 6/15/2022: initial upload_<br>
+_Revision 0.2 - 6/16/2022: Grammar, and rewording things_<br>
