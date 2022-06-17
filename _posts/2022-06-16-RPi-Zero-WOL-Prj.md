@@ -1,7 +1,7 @@
 ---
 # can edit: title, date, categories, and tags
 layout: post
-title: "Raspberry Pi Zero W WOL controller"
+title: "Wake-On-Lan Controller"
 date: 2022-06-17 01:00:00 -0500
 categories: [Tech Projects]
 tags: [Homelab, Raspberry Pi]
@@ -47,4 +47,7 @@ Another thing is, if this is going to be portable, I am thinking of incorporatin
 <br>
 
 _Revision 0.1 - 6/17/2022: initial upload_
+<br>
+
+_Revision 0. - 6/1/2022: Minor change of Title_
 <br>
