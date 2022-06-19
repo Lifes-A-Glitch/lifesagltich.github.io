@@ -1,27 +1,35 @@
-# Chirpy Starter [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)](https://rubygems.org/gems/jekyll-theme-chirpy) [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders `_includes`, `_layout`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file from the theme's gem. If you have ever installed this theme gem, you can use the command `bundle info --path jekyll-theme-chirpy` to locate these files.
-
-The Jekyll organization claims that this is to leave the ball in the user’s court, but this also results in users not being able to enjoy the out-of-the-box experience when using feature-rich themes.
-
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your Jekyll site. The following is a list of targets:
-
-```shell
-.
-├── _config.yml
-├── _data
-├── _plugins
-├── _tabs
-└── index.html
+### Installation of Ruby and other requirements:
+```bash
+sudo apt-get install ruby-full build-essential zlib1g-dev
 ```
+### Configuration of Ruby Gems (do not want to install them as root user)
+```bash
+echo '\n# Install Ruby Gems to ~/gems' >> ~/.bashrc
+echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
+echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
+source ~/.bashrc
+```
+### Install bundler
+```shell
+gem install jekyll bundler
+```
+### Running Jekyll-Based site
+ You will want to run the command:
+ ```shell
+ bundle
+ ```
+ just to make sure that gems dependencies are installed and checked.
 
-In order to save your time, and to prevent you from missing some files when copying, we extract those files/configurations of the latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+ To execure and serve (locally) a Jekyll site, run:
+ ```shell
+ bundle exec jekyll serve
+ ```
 
-## Prerequisites
+ ### Notes:
 
-Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of `Ruby`, `RubyGems`, `Jekyll` and `Bundler`.
-
-## Installation
+ You may have to change the permissions of the directory you hold your repo in.
+ If it looks like: `drwxrwxrwx 1 root 197609 0 Jun 18 22:23 {placeholder}.github.io/`, you will need to use `sudo chown -R $USER:$USER <filepath>`## Installation
 
 [**Use this template**][use-template] to generate a brand new repository and name it `<GH_USERNAME>.github.io`, where `GH_USERNAME` represents your GitHub username.
 
