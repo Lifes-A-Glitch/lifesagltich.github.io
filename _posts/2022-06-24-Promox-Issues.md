@@ -41,3 +41,12 @@ What I want to do with Proxmox is run 2 VMs to run multiple services on. One VM 
 Honestly love this song, listen to it whenever I am hacking anything. Think of it as a pump up song. Enjoy!
 <br>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4rFbNHh4gX7kGTbfCGEOMF?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+
+
+<br>
+<br>
+
+_Revision 0.1 - 6/24/2022: initial upload_
+
+<br>
