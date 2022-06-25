@@ -21,7 +21,7 @@ gem install jekyll bundler
  ```
  just to make sure that gems dependencies are installed and checked.
 
- To execure and serve (locally) a Jekyll site, run:
+ To execute and serve (locally) a Jekyll site, run:
  ```shell
  bundle exec jekyll serve
  ```
