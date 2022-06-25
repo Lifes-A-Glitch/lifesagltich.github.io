@@ -1,7 +1,7 @@
 ---
 # can edit: title, date, categories, and tags
 layout: post
-title: "Proxmox Issues on R630"
+title: "Homelab: Proxmox Issues on R630"
 date: 2022-06-24 07:00:00 -0500
 categories: [Homelab]
 tags: [Homelab, R630]
