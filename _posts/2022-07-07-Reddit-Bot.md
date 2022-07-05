@@ -9,10 +9,10 @@ tags: [Reddit, Bot]
 
 # Details Details Details...
 
-To explain why I am even talking about this is because one day I got miffed that I could not get an invite through Reddit onto a certain thing I wanted. Sounds a little suspicious right? Cool, that is probably for another time.
+To explain why I am even talking about this is because one day I got miffed that I could not get an invite for something I wanted on a subreddit of Reddit. I wanted to know when someone was to make a post, and I could connect it via keywords. At that point in time, the bot would notify me via SMS. That _is_ the plan at least.
 <br>
 <br>
-This bot was designed to scrape any subreddit someone designates. Searching for keywords in teh titles, to searching for keywords in the descriptions.
+This bot was designed to scrape any subreddit someone designates. Searching for keywords in the titles, to searching for keywords in the descriptions.
 
 ## Packages Needed
 _**Python 3.10.X was used for this project**_
@@ -80,5 +80,8 @@ redditConnection = praw.Reddit(
 <br>
 
 _Revision 0.1 - 7/4/2022: Initial Upload_
+<br>
+
+_Revision 1.0 - 7/4/2022: Correcting Grammar, and major change_
 
 <br>
