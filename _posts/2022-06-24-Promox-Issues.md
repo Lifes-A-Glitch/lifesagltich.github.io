@@ -47,6 +47,6 @@ Honestly love this song, listen to it whenever I am hacking anything. Think of i
 <br>
 <br>
 
-_Revision 0.1 - 6/24/2022: initial upload_
+_Revision 0.1 - 6/24/2022: Initial Upload_
 
 <br>

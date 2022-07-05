@@ -46,7 +46,7 @@ Another thing is, if this is going to be portable, I am thinking of incorporatin
 <br>
 <br>
 
-_Revision 0.1 - 6/17/2022: initial upload_
+_Revision 0.1 - 6/17/2022: Initial Upload_
 <br>
 
 _Revision 0. - 6/1/2022: Minor change of Title_
