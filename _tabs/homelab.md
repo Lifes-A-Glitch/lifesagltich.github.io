@@ -1,10 +1,10 @@
-<!-- ---
+---
 title: Homelab
 icon: fas fa-laptop-code
 order: 4
---- -->
+---
 
-# Introduction into my Home Lab
+# Introduction Into My Home Lab
 This lab is an development/production place for me. It is for me to grow and learn new.
 
 ## Equipment
@@ -49,8 +49,16 @@ This lab is an development/production place for me. It is for me to grow and lea
     - Raspberry Pi 3B+
         - PiHole
         - GitHub backup repo
+    - Raspberry Pi 4 2GB
+        - VPN server
     - Nest Thermostat
         - 3rd Gen
     - Pillips Hue Hub
         - 2 Warm Lights
         - 2 light strips (multicolor)
+
+<br>
+<br>
+
+_Revision 0.1 - 7/23/2022: Initial Upload_
+<br>
