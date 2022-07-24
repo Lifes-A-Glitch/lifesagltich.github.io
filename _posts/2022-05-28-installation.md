@@ -37,6 +37,17 @@ gem install jekyll bundler
  ### Notes:
 
  You may have to change the permissions of the directory you hold your repo in.
- If it looks like: `drwxrwxrwx 1 root 197609 0 Jun 18 22:23 {placeholder}.github.io/`, you will need to use `sudo chown -R $USER:$USER <filepath>`
+ If it looks like: 
+ * `drwxrwxrwx 1 root 197609 0 Jun 18 22:23 {placeholder}.github.io/`
+ <br>
+ 
+ You will need to use:
+ * `sudo chown -R $USER:$USER <filepath>`
+<br>
+<br>
 
  _Revision 0.1 - 5/28/2022: Initial Upload_
+<br>
+
+_Revision 0.2 - 5//2022: Initial Upload_
+<br>
