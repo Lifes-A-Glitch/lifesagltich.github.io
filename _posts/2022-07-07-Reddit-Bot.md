@@ -82,6 +82,6 @@ redditConnection = praw.Reddit(
 _Revision 0.1 - 7/4/2022: Initial Upload_
 <br>
 
-_Revision 1.0 - 7/4/2022: Correcting Grammar, and major change_
+_Revision 1.0 - 7/4/2022: Correcting Grammar, and Major Change_
 
 <br>
