@@ -65,8 +65,9 @@ You can now thank yourself that you were able to get this done with minimal tear
 
 # New song to listen to:
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/51rv0PwUdnFJNdf04pPLB2?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/51rv0PwUdnFJNdf04pPLB2?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 
 _Revision 0.1 - 6/15/2022: Initial Upload_<br>
 _Revision 0.2 - 6/16/2022: Grammar, and rewording things_<br>
+_Revision 0.3 - 7/26/2022: Resizing Spotify iframe_<br>
