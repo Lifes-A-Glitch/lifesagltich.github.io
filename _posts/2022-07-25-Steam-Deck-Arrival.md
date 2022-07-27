@@ -5,12 +5,15 @@ title: "Steam Deck: Arrival & Modification"
 date: 2022-07-04 20:00:00 -0500
 categories: [Reddit-Bot]
 tags: [Reddit, Bot]
----
+--- -->
 
-# What I Want To Do... -->
+# What I Want To Do... ¯\\\_(ツ)_/¯
+With tmy Steam Deck being on it's way, I want to talk about its potential. Starting with "hacking", I want to try to load Kali Linux (a popular flavor of Linux) onto the Steam Deck and see if I can get it to work. If so, I want to know what the potential it has in store when it comes to breaching security measures using the system. I would also like to see if emulators can be ran fully on a steam deck without any problems as well as to see if the controllers related to the games themselves can be used virtually. I would also like to see if the Steam Deck can be used as a virtual machine.
 
 
-<!-- ## Details
+![SteamDeck](/assets/img/steam_deck_tech_specs.png)
+
+## Specs of the Steam Deck
  * Processor
     * AMD APU
          * CPU: Zen 2 4c/8t, 2.4-3.5GHz (up to 448 GFlops FP32)
@@ -35,4 +38,13 @@ tags: [Reddit, Bot]
      * microSD - UHS-I supports SD, SDXC and SDHC
      * USB-C with DisplayPort 1.4 Alt-mode support; up to 8K @60Hz or 4K @120Hz, USB 3.2 Gen 2
  * Software
-     * SteamOS 3.0 (Arch-based) -->
+     * SteamOS 3.0 (Arch-based)
+
+# New song to listen to:
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3CLSHJv5aUROAN2vfOyCOh?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+<br>
+<br>
+
+_Revision 0.1 - 7/26/2022: Initial Upload_
+<br>
