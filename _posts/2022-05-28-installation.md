@@ -48,6 +48,3 @@ gem install jekyll bundler
 
  _Revision 0.1 - 5/28/2022: Initial Upload_
 <br>
-
-_Revision 0.2 - 5//2022: Initial Upload_
-<br>
