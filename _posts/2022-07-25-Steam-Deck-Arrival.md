@@ -7,6 +7,8 @@ categories: [Tech Projects]
 tags: [Steam Deck]
 ---
 
+TEST
+
 # What I Want To Do... ¯\\\_(ツ)_/¯
 With my Steam Deck being on it's way, I want to talk about its potential. Starting with "hacking", I want to try to load Kali Linux (a popular flavor of Linux) onto the Steam Deck and see if I can get it to work. If so, I want to know what the potential it has in store when it comes to breaching security measures using the system. I would also like to see if emulators can be ran fully on a steam deck without any problems as well as to see if the controllers related to the games themselves can be used virtually. I would also like to see if the Steam Deck can be used as a virtual machine.
 
