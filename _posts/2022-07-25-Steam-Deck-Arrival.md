@@ -22,7 +22,7 @@ I still have plans for trying out Kali Linux on it. I have thought about benchma
 
 Overall, this is going to become a very powerful asset to my backpack of tools. I am going to be able to use it to hack computers, and I am going to be able to use it to play games on it.
 
-*Hopefully it comes here in one piece*
+*Hopefully it comes here in one piece!*
 ## Specs of the Steam Deck
  * Processor
     * AMD APU
