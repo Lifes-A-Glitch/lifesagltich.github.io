@@ -21,8 +21,11 @@ The Steam Deck is coming here shortly, and I cannot be more excited!
 I still have plans for trying out Kali Linux on it. I have thought about benchmarking it with different OS's but have not made my mind up yet. More or less, I would just like to play around with it first. I have gotten addicted to this game called Factorio and it is a blast! I am still looking forward to other games that I can play on it. Like Spy Fox (childhood nostalgia), Planetary Annihilation: TITANS, Witcher, and a few others for example.
 
 Overall, this is going to become a very powerful asset to my backpack of tools. I am going to be able to use it to hack computers, and I am going to be able to use it to play games on it.
-
 *Hopefully it comes here in one piece!*
+
+## Updates: Future
+
+
 ## Specs of the Steam Deck
  * Processor
     * AMD APU
