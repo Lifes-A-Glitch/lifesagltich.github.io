@@ -13,7 +13,6 @@ With my Steam Deck being on it's way, I want to talk about its potential. Starti
 
 ![SteamDeck](/assets/img/steam_deck_tech_specs.png)
 
-## Steam Deck: Arrival
 
 ![SteamDeckOrder](/assets/img/steam_deck_order.png)
 
