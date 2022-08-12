@@ -1,12 +1,11 @@
-<!-- ---
+---
 # can edit: title, date, categories, and tags
 layout: post
 title: "Homelab: Teardown Of The Lab"
-date: 2022-08-12 20:00:00 -0500
+date: 2022-08-12 12:00:00 -0500
 categories: [Homelab]
 tags: [Homelab, R630, R730, R730XD, UDMP-SE, USW-48-PoE, Raspberry Pi]
---- -->
-<!-- TODO: Uncomment header for release, dont forget to rename the file as well... (and check the date) -->
+---
 
 # The "Wreckoning" of the Lab
 Today was the day that I started tearing down my lab. First pulling out the R630s was easy enough. The R730XD on the other hand was a nightmare to handle
@@ -16,12 +15,11 @@ I started panicking a little, then I started measuring... The rack just *barely*
 
 # New song to listen to:
 
-Thank you for reading this small post, here is some music to compensate for my dumba\*\*.
+Thank you for reading this small post, here is some music!
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0sjxRg1VlYfx4YG7uxurrq?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 <br>
 <br>
 
-<!-- TODO: Change the date if not released on written date -->
-_Revision 0.1 - 8/11/2022: Initial Upload_
+_Revision 0.1 - 8/12/2022: Initial Upload_
 <br>
