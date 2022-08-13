@@ -42,12 +42,15 @@ Another thing is, if this is going to be portable, I am thinking of incorporatin
 
 # New song to listen to:
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6Rqn2GFlmvmV4w9Ala0I1e?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6Rqn2GFlmvmV4w9Ala0I1e?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 <br>
 <br>
 
 _Revision 0.1 - 6/17/2022: Initial Upload_
 <br>
 
-_Revision 0. - 6/1/2022: Minor change of Title_
+_Revision 0.2 - 7/13/2022: Minor change of Title_
+<br>
+
+_Revision 0.3 - 8/13/2022: Spotify iframe resized_
 <br>
