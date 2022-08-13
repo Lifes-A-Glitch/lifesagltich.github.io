@@ -9,7 +9,7 @@ tags: [Steam Deck, Kali Linux]
 
 # Steam Deck Pt. 2 - SteamOS and Games
 
-I have had the steam deck for only a few days now. It is one of the best handheld consoles that you can own to date. The potential that is has is going to shake the console industry for years. I know there are other consoles out there like it.**This one though**... is an entire different ballpark of it's own. 
+I have had the steam deck for only a few days now. It is one of the best handheld consoles that you can own to date. The potential that is has is going to shake the console industry for years. I know there are other consoles out there like it. **This one though**... is an entire different ballpark of it's own. 
 
 ## Different Operating Systems
 So far, I have seen people load Windows 11, and 10 onto their Steam Decks. I have not, I am more geared towards the linux side of it. Loading Kali Linux on it was a great experience (I will talk about this more...). The onboard Wi-Fi module and bluetooth make it the perfect tool for war driving and other fun stuff! I really want to try other flavors of linux and see what the potential is (I will report back findings if I like it enough).
@@ -29,9 +29,9 @@ I do recommend anyone that loves emulation of even gaming in general to pick one
 A list of things to consider:
 <!-- TODO: Will need to add links for recommendations -->
 + Definitely recommend waiting to get a better SSD from Micron. They are supposed to release a 2TB SSD that fits the deck perfectly (hasn't been *officially* announced).
-+ GET THE HALL EFFECT JOYSTICKS... They are worth it. Better accuracy.
-+ There is an "official" docking station for the Steam Deck... I recommend it, first of all. It just looks so nice.
-+ Get a good, *and stable*, SD card. You will want 1TB so you can have more games load from the SD card. There is not really a performance issue from it by the way.
++ GET THE HALL SENSING JOYSTICKS... They are worth it. Better accuracy. Recommend: <u>[Hall Sensing Joysticks](https://www.amazon.com/Drifting-Electromagnetic-Thumbstick-AKNES-Replacement/dp/B0B31STJDH)</u>
++ There is an "official" docking station for the Steam Deck... I recommend it, first of all. It just looks so nice. Recommend: <u>[Upgraded Docking Station for Steam Deck HB0603](https://www.jsaux.com/products/upgraded-docking-station-for-steam-deck)</u>
++ Get a good, *and stable*, SD card. You will want 1TB so you can have more games load from the SD card. There is not really a performance issue from it by the way. <u>[Sandisk Extreme Pro 1TB](https://www.amazon.com/Sandisk-microSDXC-Extreme-Adapter-Mobile/dp/B07RKL6PK9/ref=sr_1_5)</u>
 
 So far, that is all I can recommend.
 <br>
@@ -50,4 +50,7 @@ Something to just chill out too, because if you are reading this, you are probab
 <br>
 
 _Revision 0.1 - 8/12/2022: Initial Upload_
+<br>
+
+_Revision 0.2 - 8/13/2022: Added reference links for product recommendations_
 <br>
