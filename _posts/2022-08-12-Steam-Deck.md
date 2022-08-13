@@ -29,9 +29,9 @@ I do recommend anyone that loves emulation of even gaming in general to pick one
 A list of things to consider:
 <!-- TODO: Will need to add links for recommendations -->
 + Definitely recommend waiting to get a better SSD from Micron. They are supposed to release a 2TB SSD that fits the deck perfectly (hasn't been *officially* announced).
-+ GET THE HALL SENSING JOYSTICKS... They are worth it. Better accuracy. Recommend: <u> [Hall Sensing Joysticks](https://www.amazon.com/Drifting-Electromagnetic-Thumbstick-AKNES-Replacement/dp/B0B31STJDH) </u>
-+ There is an "official" docking station for the Steam Deck... I recommend it, first of all. It just looks so nice. Recommend: <u> [Upgraded Docking Station for Steam Deck HB0603](https://www.jsaux.com/products/upgraded-docking-station-for-steam-deck) </u>
-+ Get a good, *and stable*, SD card. You will want 1TB so you can have more games load from the SD card. There is not really a performance issue from it by the way. <u> [Sandisk Extreme Pro 1TB](https://www.amazon.com/Sandisk-microSDXC-Extreme-Adapter-Mobile/dp/B07RKL6PK9/ref=sr_1_5) </u>
++ GET THE HALL SENSING JOYSTICKS... They are worth it. Better accuracy. Recommend: [Hall Sensing Joysticks](https://www.amazon.com/Drifting-Electromagnetic-Thumbstick-AKNES-Replacement/dp/B0B31STJDH)
++ There is an "official" docking station for the Steam Deck... I recommend it, first of all. It just looks so nice. Recommend: [Upgraded Docking Station for Steam Deck HB0603](https://www.jsaux.com/products/upgraded-docking-station-for-steam-deck)
++ Get a good, *and stable*, SD card. You will want 1TB so you can have more games load from the SD card. There is not really a performance issue from it by the way. [Sandisk Extreme Pro 1TB](https://www.amazon.com/Sandisk-microSDXC-Extreme-Adapter-Mobile/dp/B07RKL6PK9/ref=sr_1_5)
 
 So far, that is all I can recommend.
 <br>
