@@ -1,5 +1,4 @@
 ---
-<<<<<<< HEAD
 title: About
 icon: fas fa-info-circle
 order: 5
@@ -30,12 +29,3 @@ I graduated from the University of Nebraska - Omaha with a bachelor’s in Cyber
 Last thing, I have way too <u>many</u> hobbies. I love being active and keeping myself busy. Sitting still isn't a thing for me. I strive for success and from those that know me, will say I am too passionate about success.  
 
 Stick around to learn more about what I want to do! 😄
-=======
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
----
-
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
->>>>>>> upstream/main
