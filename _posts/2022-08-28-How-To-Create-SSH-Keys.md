@@ -104,6 +104,8 @@ $ ssh-add ~/.ssh/id_ed25519
 ## Notes:
 - Every time you have a problem with SSH keys, make sure to start up the SSH agent and also add the key back.
 
+- If you want to use the SSH key for other things (like logging into a server without password authentication), then you would use a command like `ssh-copy-id -i ~/.ssh/<what-ever-ssh-key-you-go-with> user@host` to copy the key to the server.
+
 # New song to listen to:
 
 Thank you for reading this small post, here is some music!
@@ -114,4 +116,7 @@ Thank you for reading this small post, here is some music!
 <br>
 
 _Revision 0.1 - 8/28/2022: Initial Upload_
+<br>
+
+_Revision 1.0 - 10/15/2022: Added another command_
 <br>
