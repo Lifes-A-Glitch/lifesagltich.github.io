@@ -16,11 +16,16 @@ lang: en
 prefer_datetime_locale:
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
+<<<<<<< HEAD
 timezone: America/Denver
+=======
+timezone:
+>>>>>>> upstream/main
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
+<<<<<<< HEAD
 title: Alex (Kali)                          # the main title
 
 tagline: A documentation site about my life and hobbies   # it will display as the sub-title
@@ -33,6 +38,20 @@ url: 'https://blog.lifesaglitch.tech'
 
 github:
   username: Callitreality             # change to your github username
+=======
+title: Chirpy                          # the main title
+
+tagline: A text-focused Jekyll theme   # it will display as the sub-title
+
+description: >-                        # used by seo meta and the atom feed
+  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+
+# fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
+url: ''
+
+github:
+  username: github_username             # change to your github username
+>>>>>>> upstream/main
 
 twitter:
   username: twitter_username            # change to your twitter username
@@ -40,12 +59,20 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
+<<<<<<< HEAD
   name: Alex
+=======
+  name: your_full_name
+>>>>>>> upstream/main
   email: example@doamin.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username      # change to your twitter homepage
+<<<<<<< HEAD
     - https://github.com/Callitreality       # change to your github homepage
+=======
+    - https://github.com/username       # change to your github homepage
+>>>>>>> upstream/main
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -73,7 +100,11 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
+<<<<<<< HEAD
 theme_mode:   dark # [light|dark]
+=======
+theme_mode:   # [light|dark]
+>>>>>>> upstream/main
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -83,7 +114,11 @@ theme_mode:   dark # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
+<<<<<<< HEAD
 avatar: ./assets/img/audi.jpg
+=======
+avatar:
+>>>>>>> upstream/main
 
 # boolean type, the global switch for ToC in posts.
 toc: true
@@ -115,6 +150,12 @@ assets:
     # only works if `assets.self_host.enabled` is 'true'
     env:          # [development|production]
 
+<<<<<<< HEAD
+=======
+pwa:
+  enabled: true   # the option for PWA feature
+
+>>>>>>> upstream/main
 paginate: 10
 
 # ------------ The following options are not recommended to be modified ------------------
@@ -182,6 +223,10 @@ exclude:
   - '*.gemspec'
   - tools
   - README.md
+<<<<<<< HEAD
+=======
+  - CHANGELOG.md
+>>>>>>> upstream/main
   - LICENSE
   - gulpfile.js
   - node_modules

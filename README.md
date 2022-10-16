@@ -31,6 +31,7 @@ gem install jekyll bundler
  You may have to change the permissions of the directory you hold your repo in.
  If it looks like: `drwxrwxrwx 1 root 197609 0 Jun 18 22:23 {placeholder}.github.io/`, you will need to use `sudo chown -R $USER:$USER <filepath>`## Installation
 
+
 [**Use this template**][use-template] to generate a brand new repository and name it `<GH_USERNAME>.github.io`, where `GH_USERNAME` represents your GitHub username.
 
 Then clone it to your local machine and run:
