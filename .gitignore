@@ -1,3 +1,6 @@
+# Custom Files
+*.code-workspace
+
 # Bundler cache
 .bundle
 vendor
