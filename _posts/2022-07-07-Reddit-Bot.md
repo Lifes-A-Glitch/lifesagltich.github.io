@@ -6,6 +6,7 @@ date: 2022-07-04 20:00:00 -0500
 categories: [Reddit-Bot]
 tags: [Reddit, Bot]
 --- 
+# <span style="color: red;">Update: due to Reddit now charging for API use, this project is currently on backlog until Reddit decides not to</span>
 
 # Details Details Details...
 
@@ -77,11 +78,12 @@ redditConnection = praw.Reddit(
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3XctWgpqES8k6NcpJuS1jA?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 <br>
-<br>
 
 _Revision 0.1 - 7/4/2022: Initial Upload_
 <br>
 
 _Revision 1.0 - 7/4/2022: Correcting Grammar, and Major Change_
+<br>
 
+_Revision 2.0 - 12/10/2023: Posting update about Reddit API_
 <br>
